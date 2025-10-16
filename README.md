@@ -25,13 +25,13 @@ I delivered innovative software solutions using Java, with an emphasis on scalab
 
 ## 🧠 Key Skills
 
-- 🔹 Programming Languages: Java, Python, JavaScript/TypeScript
-- 🔹 Frameworks & Tools: FastAPI, Angular, Spring Boot, Node.js, SQLAlchemy
-- 🔹 Cloud & DevOps: AWS, GCP, Docker, CI/CD
-- 🔹 Databases: PostgreSQL, MySQL, MongoDB, Oracle, SQLServer
-- 🔹 Architecture: Microservices, Event-Driven Systems, RESTful APIs, Distributed Systems
-- 🔹 AI: LLM, NLP, NER, Transformers, BERT Models
-- 🔹 Other: Agile, Leadership, AI, NLP, Machine Learning
+- Programming Languages: Java, Python, JavaScript/TypeScript
+- Frameworks & Tools: FastAPI, Angular, Spring Boot, Node.js, SQLAlchemy
+- Cloud & DevOps: AWS, GCP, Docker, CI/CD
+- Databases: PostgreSQL, MySQL, MongoDB, Oracle, SQLServer
+- Architecture: Microservices, Event-Driven Systems, RESTful APIs, Distributed Systems
+- AI: LLM, NLP, NER, Transformers, BERT Models
+- Other: Agile, Lean, Scrum, Kanban
 
 ---
 
