@@ -8,6 +8,8 @@ In addition to my solid background in software engineering, I bring a complement
 
 Having also worked as an educator, I have developed strong communication and collaboration skills, enabling me to thrive in multicultural and cross-functional teams while bridging the gap between business requirements and technical implementation.
 
+I am also the co-creator and original architect of the Prompt Shield App, an AI-driven middleware solution designed to protect sensitive information in interactions with large language models. The platform anonymizes personal data before it is sent to AI systems, ensuring privacy and compliance while maintaining the integrity of user inputs. This project reflects my passion for combining technology, ethics, and innovation to build solutions that enhance trust and security in the AI ecosystem.
+
 ---
 
 ## 🚀 Experience Highlights
