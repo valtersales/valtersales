@@ -2,15 +2,15 @@
 
 ## 💼 Summary
 
-I am a dedicated Full Stack Developer with strong expertise in Java (Spring Framework) and Python (APIs and AI applications), building robust and scalable solutions for real-world challenges. My experience spans backend and frontend development, database design, and cloud-based architectures, always with a focus on performance, maintainability, and user impact.
+I am a dedicated Full Stack Developer with strong expertise in Java (Spring Framework) and Python (APIs and AI applications), building robust and scalable solutions for real-world challenges. My experience spans backend and frontend development, database design, and cloud architectures, always with a focus on performance, maintainability, and user impact.
 
-On the frontend side, I have hands-on experience with AngularJS, Angular, and TypeScript, developing dynamic interfaces, reusable components, and modular architectures that support scalability and long-term maintainability. I enjoy creating clean, efficient, and reusable UI components that improve development speed and ensure a consistent user experience.
+On the frontend side, I work as a UI Architect, applying advanced knowledge in AngularJS, Angular, TypeScript, and JavaScript to build high-performance interfaces and scalable UI architectures. I have experience designing UI platforms, developing reusable components, implementing microfrontends, and contributing to design systems that promote consistency, efficiency, and long-term evolution of large applications. I also have a strong focus on browser performance optimization and understanding of JavaScript internals, ensuring smooth and responsive user experiences.
 
-In addition to my solid background in software engineering, I bring complementary expertise in Data Science and Artificial Intelligence, applying data-driven approaches and machine learning models to create intelligent and efficient applications. This combination allows me to deliver solutions that not only work but also adapt and evolve through data.
+In addition to my background in software engineering, I bring complementary expertise in Data Science and Artificial Intelligence, applying data-driven approaches and machine learning models to create intelligent and efficient applications. This combination allows me to deliver solutions that not only work but also adapt and evolve through data.
 
 Having also worked as an educator, I have developed strong communication and collaboration skills, enabling me to thrive in multicultural and cross-functional teams while bridging the gap between business requirements and technical implementation.
 
-I am also the co-creator and original architect of the Prompt Shield App, an AI-driven middleware solution designed to protect sensitive information in interactions with large language models. The platform anonymizes personal data before it is sent to AI systems, ensuring privacy and compliance while maintaining the integrity of user inputs. This project reflects my passion for combining technology, ethics, and innovation to build solutions that enhance trust and security in the AI ecosystem.
+I am also the co-creator and original architect of the Prompt Shield App, an AI-driven middleware designed to protect sensitive information in interactions with large language models. The platform anonymizes personal data before it is sent to AI systems, ensuring privacy and compliance while maintaining the integrity of user inputs. This project reflects my passion for combining technology, ethics, and innovation to build solutions that enhance trust and security in the AI ecosystem.
 
 ---
 
