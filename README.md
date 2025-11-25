@@ -2,15 +2,15 @@
 
 ## 💼 Summary
 
-I am a dedicated Full Stack Developer with strong expertise in Java (Spring Framework) and Python (APIs and AI applications), building robust and scalable solutions for real-world challenges. My experience spans backend and frontend development, database design, and cloud architectures, always with a focus on performance, maintainability, and user impact.
+I am a Full Stack Developer with strong expertise in both backend engineering and advanced frontend/UI architecture, building scalable and high-performance applications end to end. My technical background combines robust backend design using Java (Spring Boot) and Python (FastAPI, AI services) with deep experience in modern UI development using Angular/AngularJS, TypeScript, and JavaScript.
 
-On the frontend side, I work as a UI Architect, applying advanced knowledge in AngularJS, Angular, TypeScript, and JavaScript to build high-performance interfaces and scalable UI architectures. I have experience designing UI platforms, developing reusable components, implementing microfrontends, and contributing to design systems that promote consistency, efficiency, and long-term evolution of large applications. I also have a strong focus on browser performance optimization and understanding of JavaScript internals, ensuring smooth and responsive user experiences.
+On the backend, I design and implement RESTful APIs, microservices, and domain-driven architectures that prioritize maintainability, performance, and security. I have experience optimizing SQL/NoSQL databases, structuring clean domain models, implementing async processing, refining API contracts, and applying best practices such as clean architecture and modularization. I also work with cloud environments and CI/CD pipelines to ensure reliability and automation across deployments.
 
-In addition to my background in software engineering, I bring complementary expertise in Data Science and Artificial Intelligence, applying data-driven approaches and machine learning models to create intelligent and efficient applications. This combination allows me to deliver solutions that not only work but also adapt and evolve through data.
+On the frontend, I work as a UI Architect, designing scalable UI platforms, building reusable Angular components, and contributing to design systems that enforce consistency and enable teams to move faster. I have experience with microfrontends, UI performance tuning, and applying deep knowledge of JavaScript internals and browser behavior to deliver smooth, efficient interfaces.
 
-Having also worked as an educator, I have developed strong communication and collaboration skills, enabling me to thrive in multicultural and cross-functional teams while bridging the gap between business requirements and technical implementation.
+My work is strongly collaborative — I partner with design, product, and engineering teams to align technical decisions with user and business goals. My background as an educator enhances my ability to clearly communicate trade-offs, guide teams, and support architecture discussions.
 
-I am also the co-creator and original architect of the Prompt Shield App, an AI-driven middleware designed to protect sensitive information in interactions with large language models. The platform anonymizes personal data before it is sent to AI systems, ensuring privacy and compliance while maintaining the integrity of user inputs. This project reflects my passion for combining technology, ethics, and innovation to build solutions that enhance trust and security in the AI ecosystem.
+I am also the co-creator and original architect of the Prompt Shield App, where I designed backend and middleware layers for secure anonymization workflows while also helping shape front-end components. This project reflects my commitment to creating ethical, reliable, and user-centered technology.
 
 ---
 
