@@ -2,15 +2,19 @@
 
 ## 💼 Summary
 
-I am a Full Stack Developer with strong expertise in both backend engineering and advanced frontend/UI architecture, building scalable and high-performance applications end to end. My technical background combines robust backend design using Java (Spring Boot) and Python (FastAPI, AI services) with deep experience in modern UI development using Angular/AngularJS, TypeScript, and JavaScript.
+I am a Full Stack Developer with deep expertise in frontend UI engineering and backend architecture, building secure, scalable, and high-performance platforms. I combine strong backend development in Java (Spring Boot) and Python (FastAPI, AI services) with advanced frontend architecture using AngularJS, Angular 2+, TypeScript, and JavaScript.
 
-On the backend, I design and implement RESTful APIs, microservices, and domain-driven architectures that prioritize maintainability, performance, and security. I have experience optimizing SQL/NoSQL databases, structuring clean domain models, implementing async processing, refining API contracts, and applying best practices such as clean architecture and modularization. I also work with cloud environments and CI/CD pipelines to ensure reliability and automation across deployments.
+Frontend/UI Engineering – AngularJS & Angular 2+
+I design component-based architectures, reusable UI libraries, and scalable front-end modules. My experience includes RxJS, Observables, routing, reactive forms, interceptors, AOT, lazy loading, microfrontends, state management patterns, and cross-browser compatibility. I focus on UI performance through bundle optimization, caching strategies, DOM optimization, Lighthouse/Web Vitals improvements, and memory/CPU profiling. I define UI engineering standards and contribute to design systems adopted across teams.
 
-On the frontend, I work as a UI Architect, designing scalable UI platforms, building reusable Angular components, and contributing to design systems that enforce consistency and enable teams to move faster. I have experience with microfrontends, UI performance tuning, and applying deep knowledge of JavaScript internals and browser behavior to deliver smooth, efficient interfaces.
+Backend & Architecture
+I build and maintain REST APIs, microservices, domain-driven architectures, and secure backend workflows. I optimize SQL/NoSQL databases, API performance, caching, and authentication flows. I work with async processing, API gateways, CI/CD, Dockerized deployments, Git flow, PR reviews, and cloud environments. My work includes security-critical government systems, applying OWASP practices, encryption, secure coding, auditing, and data protection.
 
-My work is strongly collaborative — I partner with design, product, and engineering teams to align technical decisions with user and business goals. My background as an educator enhances my ability to clearly communicate trade-offs, guide teams, and support architecture discussions.
+Algorithms & Problem-Solving
+I apply strong foundations in algorithmic reasoning, complexity analysis, data structures, data processing pipelines, and performance tuning, supporting robust architecture decisions.
 
-I am also the co-creator and original architect of the Prompt Shield App, where I designed backend and middleware layers for secure anonymization workflows while also helping shape front-end components. This project reflects my commitment to creating ethical, reliable, and user-centered technology.
+Product Engineering
+I have long-term experience in product-based platforms, owning UI modules end-to-end and delivering continuous iterations based on user and stakeholder feedback. Examples include mission-critical electoral systems and the Prompt Shield App, where I architected backend/middleware logic and contributed to frontend components for secure LLM interactions.
 
 ---
 
