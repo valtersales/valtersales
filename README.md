@@ -2,7 +2,7 @@
 
 ## 💼 Summary
 
-I am a Full Stack Developer with deep expertise in frontend UI engineering and backend architecture, building secure, scalable, and high-performance platforms. I combine strong backend development in Java (Spring Boot) and Python (FastAPI, AI services) with advanced frontend architecture using AngularJS, Angular 2+, TypeScript, and JavaScript.
+I am a Full Stack Developer with deep expertise in frontend UI engineering and backend architecture, building secure, scalable, and high-performance platforms. I combine strong backend development in Java (Spring Boot) and Python (FastAPI, Django, AI services) with advanced frontend architecture using AngularJS, Angular 2+, TypeScript, and JavaScript.
 
 Frontend/UI Engineering – AngularJS & Angular 2+
 I design component-based architectures, reusable UI libraries, and scalable front-end modules. My experience includes RxJS, Observables, routing, reactive forms, interceptors, AOT, lazy loading, microfrontends, state management patterns, and cross-browser compatibility. I focus on UI performance through bundle optimization, caching strategies, DOM optimization, Lighthouse/Web Vitals improvements, and memory/CPU profiling. I define UI engineering standards and contribute to design systems adopted across teams.
