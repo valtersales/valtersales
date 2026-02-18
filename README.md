@@ -16,6 +16,8 @@ I apply strong foundations in algorithmic reasoning, complexity analysis, data s
 Product Engineering
 I have long-term experience in product-based platforms, owning UI modules end-to-end and delivering continuous iterations based on user and stakeholder feedback. Examples include mission-critical electoral systems and the Prompt Shield App, where I architected backend/middleware logic and contributed to frontend components for secure LLM interactions.
 
+I’m particularly motivated by engineering challenges involving backend architecture, AI-driven systems, and products that require strong ownership and long-term technical thinking.
+
 ---
 
 ## 🚀 Experience Highlights
